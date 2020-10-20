@@ -1,0 +1,6 @@
+//Meu primeiro Script em JAVA é o bom e velho Hello - Funciona!
+public class Hello{
+    public static void main(String args[]) {
+        System.out.print("Hello World!");
+    }
+}
